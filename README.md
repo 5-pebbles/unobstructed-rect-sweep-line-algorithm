@@ -1,2 +1,2 @@
 ##  Unobstructed Rect Sweep Line Algorithm
-This given a rectangle (self) and a list of obstructions (other_rects) this algorithm returns all sub rectangles that are not covered by an obstruction.
+Given a rectangle (self) and a list of obstructions (other_rects) this algorithm returns all sub rectangles that are not covered by an obstruction.
